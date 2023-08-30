@@ -27,4 +27,4 @@ Team Player 🤝 | Collaborative 🤝
 
 
 ## Motivation for Transition 💡:
-I transitioned from a background in Physics to Data Science due to my strong affinity for computational skills, coding, and numerical analysis. Encouraged by professors' endorsements for my computational abilities during graduation, I discovered my passion for data science and machine learning, ultimately leading me to pursue a career in this dynamic field.
+I transitioned from a background in Physics to Data Science due to my strong affinity for computational skills, coding, and numerical analysis. Encouraged by professors' endorsements for my computational abilities during graduation and master's academic years, I discovered my passion for data science and machine learning, ultimately leading me to pursue a career in this dynamic field.
