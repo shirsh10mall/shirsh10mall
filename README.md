@@ -1,7 +1,8 @@
 # Professional Profile: 
 
-## Name: Shirsh Mall 👨‍🎓
-   - *Aspiring Data Scientist 📊 | MSc. Physics 🌌 | Python Enthusiast 🐍*
+## Name: Shirsh Mall 👨‍🎓   
+   - *Aspiring Data Scientist 📊 | MSc. Physics 🌌*
+   - *Email: shirs10malll@gmail.com , shirshmall10work@gmail.com*  
 
 ## Education 🎓:
 - MSc. in Physics, Indian Institute of Technology (IIT) Delhi 🏛️, 2021-2023
