@@ -6,10 +6,8 @@
    -  *Resume: https://github.com/shirsh10mall/shirsh10mall/tree/main/Resume-Shirsh*
 
 ## Education 🎓:
-- MSc. in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2021-2023
-   - Cumulative GPA: 7.4/10.0
-- Bachelor of Science (BSc) in Physics Honours, Dyal Singh College, Delhi University 🏫, 2018-2021
-   - Cleared IIT JAM exam with 97th rank out of 15k candidates
+   - MSc. in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2021-2023
+   - Bachelor of Science (BSc) in Physics Honours, Dyal Singh College, Delhi University 🏫, 2018-2021
 
 ## Technical Skills 🛠️:
 Python 🐍 | Data Science 📊 | Machine Learning 🤖 | Deep Learning 🧠 | Computer Vision (CNN) 👁️ | Natural Language Processing (NLP) 🗣️ | Data Analytics 📈
