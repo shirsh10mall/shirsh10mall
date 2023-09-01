@@ -6,7 +6,7 @@
    -  *Resume: https://github.com/shirsh10mall/shirsh10mall/tree/main/Resume-Shirsh*
 
 ## Education 🎓:
-   - MSc. in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2021-2023
+   - Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2021-2023
    - Bachelor of Science (BSc) in Physics Honours, Dyal Singh College, Delhi University 🏫, 2018-2021
 
 ## Technical Skills 🛠️:
