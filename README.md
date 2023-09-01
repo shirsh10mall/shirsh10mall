@@ -4,6 +4,8 @@
    - *Aspiring Data Scientist 📊 | MSc. Physics 🌌*
    - *Email: shirs10malll@gmail.com , shirshmall10work@gmail.com*    |  *LinkedIn Profile: linkedin.com/in/shirsh10mall*
 
+## Resume: 
+
 ## Education 🎓:
 - MSc. in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2021-2023
    - Cumulative GPA: 7.4/10.0
