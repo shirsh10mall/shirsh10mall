@@ -2,9 +2,9 @@
 
 ## Name: Shirsh Mall 👨‍🎓   
    - *Aspiring Data Scientist 📊 | MSc. Physics 🌌*
-   - *Email: shirs10malll@gmail.com , shirshmall10work@gmail.com*    |  *LinkedIn Profile: linkedin.com/in/shirsh10mall*
+   - *Email: shirs10malll@gmail.com , shirshmall10work@gmail.com*    |  *LinkedIn Profile: www.linkedin.com/in/shirsh10mall*
 
-## Resume: 
+## Resume: https://github.com/shirsh10mall/shirsh10mall/tree/main/Resume-Shirsh
 
 ## Education 🎓:
 - MSc. in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2021-2023
