@@ -11,88 +11,15 @@
    - Bachelor of Science (BSc) in Physics Honours, Dyal Singh College, Delhi University 🏫, 2018-2021
 
 ## Technical Skills 🛠️:
- 1. Programming Languages: Python 🐍, Elementary C++
- 2. Database: MySQL
- 3.. Machine Learning: Supervised Learning, Unsupervised Learning, Model Deployment, Model Optimization, Hyperparameter Tuning, Model Interpretability (SHAP), AutoML (H2O), Scikit-Learn, Classical Algorithms, Tree-Based Algorithms, Ensemble-based Algorithms.
- 4. Natural Language Processing (NLP): Recurrent Neural Network (RNN), Hugging Face Transformers, Text Classification, Text Generation, Text Summarization, Topic Modeling, Machine Translation, Question Answering, NLP Data Preprocessing, Generative AI with LLMs, Image-Text Multi-models,  Semantic Search, Vector Database, Hugging Face Transformers, Named Entity Extraction.
- 5. Computer Vision: Image Processing, Convolutional Neural Networks (CNN), Image Segmentation, Object Detection, Image Classification, Transfer Learning, Feature Extraction, Image Semantic Search 
- 6. Model Deployment Tools: Streamlit, Flask, FastAPI, Gradio, Heroku, Docker Containerization, Elementary HTML and CSS
- 7. Additional Skills: Time Series Forecasting, Web Scraping (BeautifulSoup, Selenium, Requests)
- 8. Deep Learning Tools/Framework: NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Keras, Hugging Face Transformers, NLTK, SpaCy, Gensim, Word2Vec, GloVe
- 9. Data Analysis and Visualization:  Data Wrangling, Tableau, Plotly, Seaborn, Matplotlib, Time Series Analysis
-
-
-## Technical Skills 🛠️:
-1. Programming Languages: Python 🐍, Elementary C++
-2. Database: MySQL
-3. Machine Learning 📚:
-   - Supervised Learning
-   - Unsupervised Learning
-   - Model Deployment 🚀
-   - Model Optimization ⚙️
-   - Hyperparameter Tuning 🧰
-   - Model Interpretability (SHAP) 🧐
-   - AutoML (H2O) 🤖
-   - Scikit-Learn 🧪
-   - Classical Algorithms 📈
-   - Tree-Based Algorithms 🌲
-   - Ensemble-based Algorithms 🎵
-4. Natural Language Processing (NLP) 📝:
-   - Recurrent Neural Network (RNN) 🧠
-   - Hugging Face Transformers 🤗
-   - Text Classification
-   - Text Generation 📄
-   - Text Summarization 📑
-   - Topic Modeling 🗂️
-   - Machine Translation 🌍
-   - Question Answering 💬
-   - NLP Data Preprocessing 🧹
-   - Generative AI with LLMs 🎨
-   - Image-Text Multi-models 🖼️📝
-   - Semantic Search 🔍
-   - Vector Database 📊
-   - Named Entity Extraction 🧾
-5. Computer Vision 🖼️:
-   - Image Processing
-   - Convolutional Neural Networks (CNN) 🧠📷
-   - Image Segmentation 📂
-   - Object Detection 🕵️
-   - Image Classification 🌟
-   - Transfer Learning 🔄
-   - Feature Extraction 📈
-   - Image Semantic Search 🔍🖼️
-6. Model Deployment Tools 🌐:
-   - Streamlit
-   - Flask
-   - FastAPI 🚀
-   - Gradio 📡
-   - Heroku ☁️
-   - Docker Containerization 🐳
-   - Elementary HTML and CSS 📝🎨
-7. Additional Skills ⏳:
-   - Time Series Forecasting
-   - Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️
-8. Deep Learning Tools/Framework 🧮:
-   - NumPy
-   - Pandas 🐼
-   - Scikit-Learn 🧪
-   - TensorFlow 🧠
-   - PyTorch 🔥
-   - Keras 🐋
-   - Hugging Face Transformers 🤖🤗
-   - NLTK 📚
-   - SpaCy 🌐
-   - Gensim 📚
-   - Word2Vec 📖
-   - GloVe 🧤
-9. Data Analysis and Visualization 📊:
-   - Data Wrangling 🧹
-   - Tableau 📊
-   - Plotly 📈
-   - Seaborn 🌊
-   - Matplotlib 📉
-   - Time Series Analysis ⏳📈
-
+1. Programming Languages: Python 🐍 • Elementary C++.
+2. Database: MySQL.
+3. Machine Learning 📚: Supervised Learning • Unsupervised Learning • Model Deployment 🚀 • Model Optimization ⚙️ • Hyperparameter Tuning 🧰 • Model Interpretability (SHAP) 🧐 • AutoML (H2O) 🤖 • Scikit-Learn 🧪 • Classical Algorithms 📈 • Tree-Based Algorithms 🌲 • Ensemble-based Algorithms 🎵.
+4. Natural Language Processing (NLP) 📝: Recurrent Neural Network (RNN) 🧠 • Hugging Face Transformers 🤗 • Text Classification • Text Generation 📄 • Text Summarization 📑 • Topic Modeling 🗂️ • Machine Translation 🌍 • Question Answering 💬 • NLP Data Preprocessing 🧹 • Generative AI with LLMs 🎨 • Image-Text Multi-models 🖼️📝 • Semantic Search 🔍 • Vector Database 📊 • Named Entity Extraction 🧾.
+5. Computer Vision 🖼️: Image Processing • Convolutional Neural Networks (CNN) 🧠📷 • Image Segmentation 📂 • Object Detection 🕵️ • Image Classification 🌟 • Transfer Learning 🔄 • Feature Extraction 📈 • Image Semantic Search 🔍🖼️.
+6. Model Deployment Tools 🌐: Streamlit • Flask • FastAPI 🚀 • Gradio 📡 • Heroku ☁️ • Docker Containerization 🐳 • Elementary HTML and CSS 📝🎨.
+7. Additional Skills ⏳: Time Series Forecasting ⏳📈• Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️ • Linux.
+8. Deep Learning Tools/Framework 🧮: NumPy • Pandas 🐼 • Scikit-Learn 🧪 • TensorFlow 🧠 • PyTorch 🔥 • Keras 🐋 • Hugging Face Transformers 🤖🤗 • NLTK 📚 • SpaCy 🌐 • Gensim 📚 • Word2Vec 📖 • GloVe 🧤.
+9. Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau 📊 • Plotly 📈 • Seaborn 🌊 • Matplotlib 📉.
 
 
 ## Current Aim 🚀:
