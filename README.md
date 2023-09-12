@@ -11,7 +11,8 @@
    - Bachelor of Science (BSc) in Physics Honours, Dyal Singh College, Delhi University 🏫, 2018-2021
 
 ## Technical Skills 🛠️:
-Python 🐍 | Data Science 📊 | Machine Learning 🤖 | Deep Learning 🧠 | Computer Vision (CNN) 👁️ | Natural Language Processing (NLP) 🗣️ | Data Analytics 📈
+ 1. Programming Languages: Python 🐍, Elementary C++            Database: MySQL
+ 2. Data Science 📊 | Machine Learning 🤖 | Deep Learning 🧠 | Computer Vision (CNN) 👁️ | Natural Language Processing (NLP) 🗣️ | Data Analytics 📈
 
 ## Current Aim 🚀:
 Dedicated to securing a data science role where I can apply my skills and contribute to data-driven decision-making.
