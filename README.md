@@ -11,8 +11,14 @@
    - Bachelor of Science (BSc) in Physics Honours, Dyal Singh College, Delhi University 🏫, 2018-2021
 
 ## Technical Skills 🛠️:
- 1. Programming Languages: Python 🐍, Elementary C++            Database: MySQL
- 2. Data Science 📊 | Machine Learning 🤖 | Deep Learning 🧠 | Computer Vision (CNN) 👁️ | Natural Language Processing (NLP) 🗣️ | Data Analytics 📈
+ 1. Programming Languages: Python 🐍, Elementary C++
+ 2. Database: MySQL
+ 3. Data Science 📊:  | Machine Learning 🤖 | Deep Learning 🧠 | Computer Vision (CNN) 👁️ | Natural Language Processing (NLP) 🗣️ | Data Analytics 📈
+ 4. Machine Learning: Supervised Learning, Unsupervised Learning, Model Deployment, Model Optimization, Hyperparameter Tuning, Model Interpretability (SHAP), AutoML (H2O), Scikit-Learn, Classical Algorithms, Tree-Based Algorithms, Ensemble-based Algorithms.
+ 5. Natural Language Processing (NLP): Recurrent Neural Network (RNN), Hugging Face Transformers, Text Classification, Text Generation, Text Summarization, Topic Modeling, Machine Translation, Question Answering, NLP Data Preprocessing, Generative AI with LLMs, Image-Text Multi-models,  Semantic Search, Vector Database, Hugging Face Transformers, Named Entity Extraction.
+ 6. Computer Vision: Image Processing, Convolutional Neural Networks (CNN), Image Segmentation, Object Detection, Image Classification, Transfer Learning, Feature Extraction, Image Semantic Search 
+ 7. Model Deployment Tools: Streamlit, Flask, FastAPI, Gradio, Heroku, Docker Containerization, Elementary HTML and CSS
+ 8. Additional Skills: Explainable AI ( SHAP ), Time Series Forecasting, Web Scraping (BeautifulSoup, Selenium, Requests), AutoML
 
 ## Current Aim 🚀:
 Dedicated to securing a data science role where I can apply my skills and contribute to data-driven decision-making.
