@@ -1,6 +1,6 @@
 # Professional Profile: 
 
-###  Resume: https://github.com/shirsh10mall/shirsh10mall/tree/main/Resume-Shirsh
+### - - - - -  Resume: https://github.com/shirsh10mall/shirsh10mall/tree/main/Resume-Shirsh - - - - -
 
 ## Name: Shirsh Mall 👨‍🎓   
    - *Aspiring Data Scientist 📊 | MSc. Physics 🌌*
