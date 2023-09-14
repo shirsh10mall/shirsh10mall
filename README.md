@@ -35,7 +35,7 @@ Team Player 🤝 | Collaborative 🤝
 ## Motivation for Transition 💡:
 I transitioned from a background in Physics to Data Science due to my strong affinity for computational skills, coding, and numerical analysis. Encouraged by professors' endorsements for my computational abilities during graduation and master's academic years, I discovered my passion for data science and machine learning, ultimately leading me to pursue a career in this dynamic field.
 
-## Projects 🚧:
+# Projects 🚧:
 I have diligently undertaken a range of data science courses and successfully executed diverse projects. My journey began with foundational linear regression and simple machine learning projects, eventually progressing to creating interactive dashboards, advanced machine learning and deep learning endeavours, and foraying into intricate realms such as Computer Vision and advanced Natural Language Processing.
 
 ### Machine Learning and Deep Learning Projects
